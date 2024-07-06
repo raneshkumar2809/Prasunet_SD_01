@@ -36,3 +36,6 @@ You can download the /dist/main.exe file and run it to use the temperature conve
 
 - `main.py`: Contains the main application code for the temperature converter.
 - `convert_temp_to.py`: Contains the functions for temperature conversions.
+
+  
+! temperature_convertor.png
