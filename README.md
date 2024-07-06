@@ -38,4 +38,4 @@ You can download the /dist/main.exe file and run it to use the temperature conve
 - `convert_temp_to.py`: Contains the functions for temperature conversions.
 
   
-! temperature_convertor.png
+![temperature_convertor](https://github.com/raneshkumar2809/Prasunet_SD_01/blob/main/temperature_convertor.png)
