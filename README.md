@@ -1,6 +1,6 @@
 # Temperature Converter
 
-This is a simple graphical user interface (GUI) application that allows users to convert temperatures between Celsius, Kelvin, and Fahrenheit using Python's Tkinter library.
+This is a simple graphical user interface (GUI) application that ask user to guess a number and show whether the number is less or greater than correct number, if number is correct then it outputs how many attempts user took to guess correct answer.
 
 ## For quick use 
 You can download the /dist/main.exe file and run it to use the temperature converter
@@ -11,11 +11,11 @@ You can download the /dist/main.exe file and run it to use the temperature conve
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/raneshkumar2809/Prasunet_SD_01.git
+    git clone https://github.com/raneshkumar2809/Prasunet_SD_02.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd temperature-converter
+    cd Prasunet_SD_02
     ```
 3. Install the required dependencies:
     ```bash
@@ -35,7 +35,6 @@ You can download the /dist/main.exe file and run it to use the temperature conve
  ## Code Structure
 
 - `main.py`: Contains the main application code for the temperature converter.
-- `convert_temp_to.py`: Contains the functions for temperature conversions.
 
   
-![temperature_convertor](https://github.com/raneshkumar2809/Prasunet_SD_01/blob/main/temperature_convertor.png)
+![temperature_convertor](https://github.com/raneshkumar2809/Prasunet_SD_01/blob/main/number_guessing.png)
